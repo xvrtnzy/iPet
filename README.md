@@ -10,4 +10,4 @@ $ npm start
 
 打開瀏覽器網址列輸入:Localhost:8888
 
-![擷取圖片](./擷取.JPG)
+![擷取圖片](./catch.JPG)
