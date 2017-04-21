@@ -1,0 +1,10 @@
+.thumbnail-image {
+  max-height: 300px; }
+
+.thumbnail {
+  padding: 0; }
+
+.ellipsis {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis; }
